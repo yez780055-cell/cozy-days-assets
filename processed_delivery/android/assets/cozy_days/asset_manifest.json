@@ -1,0 +1,354 @@
+[
+  {
+    "name": "paper_texture",
+    "status": "ready",
+    "group": "backgrounds",
+    "width": 1254,
+    "height": 1254,
+    "source": "01_paper_texture.png"
+  },
+  {
+    "name": "bedroom_header",
+    "status": "ready",
+    "group": "backgrounds",
+    "width": 1672,
+    "height": 941,
+    "source": "02_bedroom_background.png"
+  },
+  {
+    "name": "cats_header",
+    "status": "ready",
+    "group": "characters",
+    "width": 1602,
+    "height": 884,
+    "source": "03_header_cats.png"
+  },
+  {
+    "name": "cats_empty_state",
+    "status": "ready",
+    "group": "characters",
+    "width": 1875,
+    "height": 811,
+    "source": "04_empty_state_cats.png"
+  },
+  {
+    "name": "black_cat_peek_left",
+    "status": "ready",
+    "group": "characters",
+    "width": 352,
+    "height": 370,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "black_cat_peek_blanket",
+    "status": "ready",
+    "group": "characters",
+    "width": 518,
+    "height": 302,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "black_cat_lying",
+    "status": "ready",
+    "group": "characters",
+    "width": 501,
+    "height": 317,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "black_cat_peek_bottom",
+    "status": "ready",
+    "group": "characters",
+    "width": 373,
+    "height": 290,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "black_cat_sleeping_books",
+    "status": "ready",
+    "group": "characters",
+    "width": 582,
+    "height": 330,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "books_shelf_plant",
+    "status": "ready",
+    "group": "stationery",
+    "width": 600,
+    "height": 348,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "books_stack",
+    "status": "ready",
+    "group": "stationery",
+    "width": 360,
+    "height": 300,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "book_open_decor",
+    "status": "ready",
+    "group": "stationery",
+    "width": 394,
+    "height": 258,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "books_upright",
+    "status": "ready",
+    "group": "stationery",
+    "width": 271,
+    "height": 333,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "pencil_cup",
+    "status": "ready",
+    "group": "stationery",
+    "width": 202,
+    "height": 312,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "washi_clip_group",
+    "status": "ready",
+    "group": "stationery",
+    "width": 311,
+    "height": 252,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "washi_pink_stationery",
+    "status": "ready",
+    "group": "stationery",
+    "width": 167,
+    "height": 99,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "washi_cream_stationery",
+    "status": "ready",
+    "group": "stationery",
+    "width": 187,
+    "height": 94,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "paperclip_stationery",
+    "status": "ready",
+    "group": "stationery",
+    "width": 96,
+    "height": 138,
+    "source": "05_cat_books_sticker_sheet.png"
+  },
+  {
+    "name": "task_book",
+    "status": "ready",
+    "group": "tasks",
+    "width": 702,
+    "height": 384,
+    "source": "06_task_icons_sheet.png"
+  },
+  {
+    "name": "task_stretch",
+    "status": "ready",
+    "group": "tasks",
+    "width": 732,
+    "height": 730,
+    "source": "06_task_icons_sheet.png"
+  },
+  {
+    "name": "washi_pink",
+    "status": "ready",
+    "group": "decor",
+    "width": 302,
+    "height": 179,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "washi_lavender_heart",
+    "status": "ready",
+    "group": "decor",
+    "width": 316,
+    "height": 168,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "washi_cream_grid",
+    "status": "ready",
+    "group": "decor",
+    "width": 305,
+    "height": 172,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "bow_pink_large",
+    "status": "ready",
+    "group": "decor",
+    "width": 322,
+    "height": 297,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "cherries_simple",
+    "status": "ready",
+    "group": "decor",
+    "width": 215,
+    "height": 238,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "cherries_bow",
+    "status": "ready",
+    "group": "decor",
+    "width": 209,
+    "height": 250,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "flower_pink",
+    "status": "ready",
+    "group": "decor",
+    "width": 139,
+    "height": 138,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "flower_pink_02",
+    "status": "ready",
+    "group": "decor",
+    "width": 148,
+    "height": 152,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "flower_pink_03",
+    "status": "ready",
+    "group": "decor",
+    "width": 105,
+    "height": 102,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "flower_tulip_pink",
+    "status": "ready",
+    "group": "decor",
+    "width": 125,
+    "height": 172,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "flower_tulip_yellow",
+    "status": "ready",
+    "group": "decor",
+    "width": 159,
+    "height": 161,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "paperclip_pink",
+    "status": "ready",
+    "group": "decor",
+    "width": 193,
+    "height": 234,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "sprout",
+    "status": "ready",
+    "group": "decor",
+    "width": 180,
+    "height": 113,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "cloud",
+    "status": "ready",
+    "group": "decor",
+    "width": 196,
+    "height": 146,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "leaf_green",
+    "status": "ready",
+    "group": "decor",
+    "width": 117,
+    "height": 101,
+    "source": "07_decorations_sheet.png"
+  },
+  {
+    "name": "sparkle_gold",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "09_stars_hearts_drops_sheet_b.png"
+  },
+  {
+    "name": "sparkle_gold_02",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "08_stars_hearts_drops_sheet_a.png"
+  },
+  {
+    "name": "star_cream",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "09_stars_hearts_drops_sheet_b.png"
+  },
+  {
+    "name": "star_pink",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "09_stars_hearts_drops_sheet_b.png"
+  },
+  {
+    "name": "star_pink_outline",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "09_stars_hearts_drops_sheet_b.png"
+  },
+  {
+    "name": "heart_pink_filled",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "08_stars_hearts_drops_sheet_a.png"
+  },
+  {
+    "name": "heart_pink_outline",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "08_stars_hearts_drops_sheet_a.png"
+  },
+  {
+    "name": "drop_blue",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "08_stars_hearts_drops_sheet_a.png"
+  },
+  {
+    "name": "drop_lavender",
+    "status": "ready",
+    "group": "symbols",
+    "width": 128,
+    "height": 128,
+    "source": "08_stars_hearts_drops_sheet_a.png"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "original": {
+    "horizontal_wrap_mean_abs": 2.419191919191919,
+    "vertical_wrap_mean_abs": 2.6751727804359384,
+    "interior_neighbor_mean_abs": 2.0244744882351466,
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "repaired": {
+    "horizontal_wrap_mean_abs": 0.866294524189261,
+    "vertical_wrap_mean_abs": 0.7719298245614035,
+    "interior_neighbor_mean_abs": 2.024481276833526,
+    "dimensions": [
+      1254,
+      1254
+    ]
+  }
+}

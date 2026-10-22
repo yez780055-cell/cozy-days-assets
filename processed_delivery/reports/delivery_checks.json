@@ -1,0 +1,19 @@
+{
+  "source_hashes_unchanged": true,
+  "inventory_hashes_match": true,
+  "individual_three_background_previews": 159,
+  "manifest_targets_accounted": 44,
+  "native_qualified_png": 35,
+  "native_vector_drawables": 9,
+  "native_resource_xml_parsed": 11,
+  "native_drawable_references_resolve": true,
+  "needs_review_excluded_from_native_res": true,
+  "review_sets_with_aligned_masks": 9,
+  "browser_demo_checked": {
+    "needs_review_filter_count": 9,
+    "star_svg_rendered_in_browser": 3,
+    "narrow_header_width": 320,
+    "broken_loaded_images": 0
+  },
+  "android_compilation": "not run: application project / Android SDK not available"
+}

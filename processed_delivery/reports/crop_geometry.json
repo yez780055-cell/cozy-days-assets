@@ -1,0 +1,842 @@
+{
+  "cats_header": {
+    "source": "03_header_cats.png",
+    "source_roi": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "trim_in_roi": [
+      61,
+      116,
+      1517,
+      918
+    ],
+    "padding_px": [
+      73,
+      41
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "cats_empty_state": {
+    "source": "04_empty_state_cats.png",
+    "source_roi": [
+      0,
+      0,
+      1774,
+      887
+    ],
+    "trim_in_roi": [
+      45,
+      82,
+      1748,
+      819
+    ],
+    "padding_px": [
+      86,
+      37
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "black_cat_peek_left": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      30,
+      20,
+      375,
+      371
+    ],
+    "trim_in_roi": [
+      13,
+      10,
+      333,
+      346
+    ],
+    "padding_px": [
+      16,
+      17
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "black_cat_peek_blanket": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1025,
+      70,
+      1510,
+      355
+    ],
+    "trim_in_roi": [
+      5,
+      6,
+      475,
+      280
+    ],
+    "padding_px": [
+      24,
+      14
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "black_cat_lying": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      744,
+      365,
+      1213,
+      671
+    ],
+    "trim_in_roi": [
+      8,
+      11,
+      463,
+      298
+    ],
+    "padding_px": [
+      23,
+      15
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "black_cat_peek_bottom": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      28,
+      718,
+      384,
+      1000
+    ],
+    "trim_in_roi": [
+      14,
+      10,
+      353,
+      272
+    ],
+    "padding_px": [
+      17,
+      14
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "black_cat_sleeping_books": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      411,
+      679,
+      945,
+      992
+    ],
+    "trim_in_roi": [
+      5,
+      0,
+      533,
+      300
+    ],
+    "padding_px": [
+      27,
+      15
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "books_shelf_plant": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      408,
+      24,
+      977,
+      352
+    ],
+    "trim_in_roi": [
+      10,
+      12,
+      554,
+      328
+    ],
+    "padding_px": [
+      28,
+      16
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "books_stack": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      28,
+      374,
+      371,
+      666
+    ],
+    "trim_in_roi": [
+      8,
+      9,
+      334,
+      281
+    ],
+    "padding_px": [
+      17,
+      14
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "book_open_decor": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      379,
+      371,
+      745,
+      622
+    ],
+    "trim_in_roi": [
+      7,
+      7,
+      365,
+      241
+    ],
+    "padding_px": [
+      18,
+      12
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "books_upright": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1266,
+      395,
+      1526,
+      712
+    ],
+    "trim_in_roi": [
+      7,
+      10,
+      252,
+      311
+    ],
+    "padding_px": [
+      13,
+      16
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "pencil_cup": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      969,
+      697,
+      1176,
+      996
+    ],
+    "trim_in_roi": [
+      9,
+      9,
+      191,
+      291
+    ],
+    "padding_px": [
+      10,
+      15
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "washi_clip_group": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1205,
+      730,
+      1509,
+      975
+    ],
+    "trim_in_roi": [
+      9,
+      8,
+      290,
+      236
+    ],
+    "padding_px": [
+      15,
+      12
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "washi_pink_stationery": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1221,
+      731,
+      1378,
+      829
+    ],
+    "trim_in_roi": [
+      4,
+      7,
+      155,
+      96
+    ],
+    "padding_px": [
+      8,
+      5
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "washi_lavender_stationery": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1207,
+      804,
+      1395,
+      908
+    ],
+    "trim_in_roi": [
+      7,
+      0,
+      188,
+      104
+    ],
+    "padding_px": [
+      10,
+      6
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "washi_cream_stationery": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1244,
+      882,
+      1419,
+      970
+    ],
+    "trim_in_roi": [
+      0,
+      0,
+      169,
+      84
+    ],
+    "padding_px": [
+      9,
+      5
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "paperclip_stationery": {
+    "source": "05_cat_books_sticker_sheet.png",
+    "source_roi": [
+      1406,
+      740,
+      1503,
+      875
+    ],
+    "trim_in_roi": [
+      3,
+      6,
+      89,
+      130
+    ],
+    "padding_px": [
+      5,
+      7
+    ],
+    "method": "original alpha, crop without resampling; alpha <=2 cleared"
+  },
+  "task_laptop": {
+    "source": "06_task_icons_sheet.png",
+    "source_roi": [
+      60,
+      85,
+      582,
+      432
+    ],
+    "trim_in_roi": [
+      12,
+      12,
+      510,
+      338
+    ],
+    "padding_px": [
+      25,
+      17
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "task_broom": {
+    "source": "06_task_icons_sheet.png",
+    "source_roi": [
+      651,
+      78,
+      1164,
+      509
+    ],
+    "trim_in_roi": [
+      16,
+      15,
+      503,
+      424
+    ],
+    "padding_px": [
+      25,
+      21
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "task_book": {
+    "source": "06_task_icons_sheet.png",
+    "source_roi": [
+      161,
+      470,
+      824,
+      838
+    ],
+    "trim_in_roi": [
+      10,
+      10,
+      648,
+      358
+    ],
+    "padding_px": [
+      32,
+      18
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "task_stretch": {
+    "source": "06_task_icons_sheet.png",
+    "source_roi": [
+      1038,
+      140,
+      1723,
+      831
+    ],
+    "trim_in_roi": [
+      11,
+      9,
+      675,
+      671
+    ],
+    "padding_px": [
+      34,
+      34
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "washi_pink": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      42,
+      51,
+      337,
+      230
+    ],
+    "trim_in_roi": [
+      11,
+      10,
+      285,
+      171
+    ],
+    "padding_px": [
+      14,
+      9
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "washi_lavender_heart": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      345,
+      53,
+      647,
+      225
+    ],
+    "trim_in_roi": [
+      10,
+      13,
+      296,
+      165
+    ],
+    "padding_px": [
+      15,
+      8
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "washi_cream_grid": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      680,
+      51,
+      973,
+      222
+    ],
+    "trim_in_roi": [
+      8,
+      6,
+      285,
+      162
+    ],
+    "padding_px": [
+      14,
+      8
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "bow_pink_large": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      708,
+      207,
+      1014,
+      489
+    ],
+    "trim_in_roi": [
+      8,
+      6,
+      300,
+      275
+    ],
+    "padding_px": [
+      15,
+      14
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "bow_blue": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      996,
+      126,
+      1241,
+      355
+    ],
+    "trim_in_roi": [
+      9,
+      11,
+      236,
+      227
+    ],
+    "padding_px": [
+      12,
+      11
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "bow_pink_small": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1521,
+      95,
+      1728,
+      234
+    ],
+    "trim_in_roi": [
+      8,
+      10,
+      196,
+      134
+    ],
+    "padding_px": [
+      10,
+      7
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "cherries_simple": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1260,
+      69,
+      1475,
+      305
+    ],
+    "trim_in_roi": [
+      12,
+      12,
+      207,
+      228
+    ],
+    "padding_px": [
+      10,
+      11
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "cherries_bow": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1515,
+      95,
+      1734,
+      343
+    ],
+    "trim_in_roi": [
+      14,
+      10,
+      203,
+      236
+    ],
+    "padding_px": [
+      10,
+      12
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_pink": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1050,
+      397,
+      1190,
+      534
+    ],
+    "trim_in_roi": [
+      10,
+      5,
+      135,
+      129
+    ],
+    "padding_px": [
+      7,
+      7
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_pink_02": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1182,
+      517,
+      1336,
+      668
+    ],
+    "trim_in_roi": [
+      10,
+      7,
+      144,
+      145
+    ],
+    "padding_px": [
+      7,
+      7
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_pink_03": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1255,
+      393,
+      1368,
+      503
+    ],
+    "trim_in_roi": [
+      6,
+      11,
+      101,
+      103
+    ],
+    "padding_px": [
+      5,
+      5
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_cream": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      858,
+      490,
+      1016,
+      644
+    ],
+    "trim_in_roi": [
+      11,
+      9,
+      150,
+      148
+    ],
+    "padding_px": [
+      7,
+      7
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_blue": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1032,
+      552,
+      1157,
+      690
+    ],
+    "trim_in_roi": [
+      6,
+      12,
+      125,
+      128
+    ],
+    "padding_px": [
+      6,
+      6
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_tulip_pink": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1387,
+      356,
+      1524,
+      529
+    ],
+    "trim_in_roi": [
+      14,
+      7,
+      127,
+      163
+    ],
+    "padding_px": [
+      6,
+      8
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "flower_tulip_yellow": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1551,
+      360,
+      1712,
+      543
+    ],
+    "trim_in_roi": [
+      8,
+      11,
+      151,
+      156
+    ],
+    "padding_px": [
+      8,
+      8
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "paperclip_pink": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      299,
+      240,
+      489,
+      467
+    ],
+    "trim_in_roi": [
+      9,
+      8,
+      184,
+      220
+    ],
+    "padding_px": [
+      9,
+      11
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "paperclip_white": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      511,
+      238,
+      668,
+      443
+    ],
+    "trim_in_roi": [
+      9,
+      10,
+      147,
+      197
+    ],
+    "padding_px": [
+      7,
+      10
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "binder_clip": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      72,
+      245,
+      263,
+      459
+    ],
+    "trim_in_roi": [
+      12,
+      9,
+      183,
+      206
+    ],
+    "padding_px": [
+      9,
+      10
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "sprout": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1376,
+      550,
+      1554,
+      663
+    ],
+    "trim_in_roi": [
+      6,
+      4,
+      168,
+      105
+    ],
+    "padding_px": [
+      9,
+      6
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "cloud": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1528,
+      694,
+      1727,
+      838
+    ],
+    "trim_in_roi": [
+      9,
+      7,
+      187,
+      139
+    ],
+    "padding_px": [
+      9,
+      7
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  },
+  "leaf_green": {
+    "source": "07_decorations_sheet.png",
+    "source_roi": [
+      1599,
+      553,
+      1712,
+      657
+    ],
+    "trim_in_roi": [
+      8,
+      3,
+      113,
+      94
+    ],
+    "padding_px": [
+      6,
+      5
+    ],
+    "method": "color/dark-outline mask; preserved enclosed pastel paint; editable alpha"
+  }
+}

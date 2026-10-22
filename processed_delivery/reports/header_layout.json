@@ -1,0 +1,80 @@
+[
+  {
+    "viewport_dp": [
+      320,
+      200
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  },
+  {
+    "viewport_dp": [
+      360,
+      216
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  },
+  {
+    "viewport_dp": [
+      393,
+      228
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  },
+  {
+    "viewport_dp": [
+      412,
+      232
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  },
+  {
+    "viewport_dp": [
+      480,
+      256
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  },
+  {
+    "viewport_dp": [
+      600,
+      280
+    ],
+    "preview_scale": 2,
+    "focal": [
+      0.62,
+      0.45
+    ],
+    "cat_width_fraction": 0.68,
+    "stretch": false
+  }
+]

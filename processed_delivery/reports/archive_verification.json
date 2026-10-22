@@ -1,0 +1,32 @@
+[
+  {
+    "archive": "1-cozy_days_part_01.zip",
+    "git_blob_sha1": "482f1d062a15124b70f8d0d80e892d2700cb587e",
+    "size": 4022368,
+    "verified": true
+  },
+  {
+    "archive": "2-cozy_days_part_02.zip",
+    "git_blob_sha1": "253d6670c72a4cd9e505e68137849b1c0cbd9be4",
+    "size": 3794275,
+    "verified": true
+  },
+  {
+    "archive": "3-cozy_days_part_03.zip",
+    "git_blob_sha1": "66d0e2758ba19edae0fd42139e574ffb76ba350c",
+    "size": 3900694,
+    "verified": true
+  },
+  {
+    "archive": "4-cozy_days_part_04.zip",
+    "git_blob_sha1": "d07f7a6edfebda794fc1c8a381b02fbd696fe33d",
+    "size": 4959245,
+    "verified": true
+  },
+  {
+    "archive": "cozy_days_part_05.zip",
+    "git_blob_sha1": "1352ec24f49e5efc25c938754477b01c3c2786a0",
+    "size": 3504697,
+    "verified": true
+  }
+]

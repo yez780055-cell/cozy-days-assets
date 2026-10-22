@@ -1,0 +1,1457 @@
+[
+  {
+    "name": "paper_texture",
+    "file": "raster/backgrounds/paper_texture.png",
+    "status": "ready",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB",
+    "full_resolution_export": true
+  },
+  {
+    "name": "bedroom_header",
+    "file": "raster/backgrounds/bedroom_header.png",
+    "status": "ready",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "full_resolution_export": true
+  },
+  {
+    "name": "cats_header",
+    "file": "raster/characters/cats_header.png",
+    "status": "ready",
+    "width": 1602,
+    "height": 884,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      73,
+      41,
+      73,
+      41
+    ],
+    "padding_ratio": [
+      0.04556803995006242,
+      0.04556803995006242,
+      0.04638009049773756,
+      0.04638009049773756
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "cats_empty_state",
+    "file": "raster/characters/cats_empty_state.png",
+    "status": "ready",
+    "width": 1875,
+    "height": 811,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      86,
+      37,
+      86,
+      37
+    ],
+    "padding_ratio": [
+      0.04586666666666667,
+      0.04586666666666667,
+      0.04562268803945746,
+      0.04562268803945746
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "black_cat_peek_left",
+    "file": "raster/characters/black_cat_peek_left.png",
+    "status": "ready",
+    "width": 352,
+    "height": 370,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      0.8546938775510204,
+      1.0,
+      0.9208163265306123,
+      1.0
+    ],
+    "margins_px": [
+      16,
+      17,
+      16,
+      17
+    ],
+    "padding_ratio": [
+      0.045454545454545456,
+      0.045454545454545456,
+      0.04594594594594595,
+      0.04594594594594595
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "black_cat_peek_blanket",
+    "file": "raster/characters/black_cat_peek_blanket.png",
+    "status": "ready",
+    "width": 518,
+    "height": 302,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      24,
+      14,
+      24,
+      14
+    ],
+    "padding_ratio": [
+      0.04633204633204633,
+      0.04633204633204633,
+      0.046357615894039736,
+      0.046357615894039736
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "black_cat_lying",
+    "file": "raster/characters/black_cat_lying.png",
+    "status": "ready",
+    "width": 501,
+    "height": 317,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      23,
+      15,
+      23,
+      15
+    ],
+    "padding_ratio": [
+      0.04590818363273453,
+      0.04590818363273453,
+      0.0473186119873817,
+      0.0473186119873817
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "black_cat_peek_bottom",
+    "file": "raster/characters/black_cat_peek_bottom.png",
+    "status": "ready",
+    "width": 373,
+    "height": 290,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      0.9964328180737217,
+      0.9655172413793104
+    ],
+    "margins_px": [
+      17,
+      14,
+      17,
+      14
+    ],
+    "padding_ratio": [
+      0.045576407506702415,
+      0.045576407506702415,
+      0.04827586206896552,
+      0.04827586206896552
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "black_cat_sleeping_books",
+    "file": "raster/characters/black_cat_sleeping_books.png",
+    "status": "ready",
+    "width": 582,
+    "height": 330,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      27,
+      15,
+      27,
+      15
+    ],
+    "padding_ratio": [
+      0.04639175257731959,
+      0.04639175257731959,
+      0.045454545454545456,
+      0.045454545454545456
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "books_shelf_plant",
+    "file": "raster/stationery/books_shelf_plant.png",
+    "status": "ready",
+    "width": 600,
+    "height": 348,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      0.9939446366782007,
+      1.0
+    ],
+    "margins_px": [
+      28,
+      16,
+      28,
+      16
+    ],
+    "padding_ratio": [
+      0.04666666666666667,
+      0.04666666666666667,
+      0.04597701149425287,
+      0.04597701149425287
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "books_stack",
+    "file": "raster/stationery/books_stack.png",
+    "status": "ready",
+    "width": 360,
+    "height": 300,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      17,
+      14,
+      17,
+      14
+    ],
+    "padding_ratio": [
+      0.04722222222222222,
+      0.04722222222222222,
+      0.04666666666666667,
+      0.04666666666666667
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "book_open_decor",
+    "file": "raster/stationery/book_open_decor.png",
+    "status": "ready",
+    "width": 394,
+    "height": 258,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      18,
+      12,
+      18,
+      12
+    ],
+    "padding_ratio": [
+      0.04568527918781726,
+      0.04568527918781726,
+      0.046511627906976744,
+      0.046511627906976744
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "books_upright",
+    "file": "raster/stationery/books_upright.png",
+    "status": "ready",
+    "width": 271,
+    "height": 333,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      13,
+      16,
+      13,
+      16
+    ],
+    "padding_ratio": [
+      0.04797047970479705,
+      0.04797047970479705,
+      0.04804804804804805,
+      0.04804804804804805
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "pencil_cup",
+    "file": "raster/stationery/pencil_cup.png",
+    "status": "ready",
+    "width": 202,
+    "height": 312,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      10,
+      15,
+      10,
+      15
+    ],
+    "padding_ratio": [
+      0.04950495049504951,
+      0.04950495049504951,
+      0.04807692307692308,
+      0.04807692307692308
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_clip_group",
+    "file": "raster/stationery/washi_clip_group.png",
+    "status": "ready",
+    "width": 311,
+    "height": 252,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      15,
+      12,
+      15,
+      12
+    ],
+    "padding_ratio": [
+      0.04823151125401929,
+      0.04823151125401929,
+      0.047619047619047616,
+      0.047619047619047616
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_pink_stationery",
+    "file": "raster/stationery/washi_pink_stationery.png",
+    "status": "ready",
+    "width": 167,
+    "height": 99,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      8,
+      5,
+      8,
+      5
+    ],
+    "padding_ratio": [
+      0.04790419161676647,
+      0.04790419161676647,
+      0.050505050505050504,
+      0.050505050505050504
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_lavender_stationery",
+    "file": "raster/stationery/washi_lavender_stationery.png",
+    "status": "needs_review",
+    "width": 201,
+    "height": 116,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      0.9586776859504132
+    ],
+    "margins_px": [
+      10,
+      6,
+      10,
+      6
+    ],
+    "padding_ratio": [
+      0.04975124378109453,
+      0.04975124378109453,
+      0.05172413793103448,
+      0.05172413793103448
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_cream_stationery",
+    "file": "raster/stationery/washi_cream_stationery.png",
+    "status": "ready",
+    "width": 187,
+    "height": 94,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      9,
+      5,
+      9,
+      5
+    ],
+    "padding_ratio": [
+      0.0481283422459893,
+      0.0481283422459893,
+      0.05319148936170213,
+      0.05319148936170213
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "paperclip_stationery",
+    "file": "raster/stationery/paperclip_stationery.png",
+    "status": "ready",
+    "width": 96,
+    "height": 138,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 253,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      5,
+      7,
+      5,
+      7
+    ],
+    "padding_ratio": [
+      0.052083333333333336,
+      0.052083333333333336,
+      0.050724637681159424,
+      0.050724637681159424
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "task_laptop",
+    "file": "raster/tasks/task_laptop.png",
+    "status": "needs_review",
+    "width": 548,
+    "height": 360,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      0.9220679012345679
+    ],
+    "margins_px": [
+      25,
+      17,
+      25,
+      17
+    ],
+    "padding_ratio": [
+      0.04562043795620438,
+      0.04562043795620438,
+      0.04722222222222222,
+      0.04722222222222222
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "task_broom",
+    "file": "raster/tasks/task_broom.png",
+    "status": "needs_review",
+    "width": 537,
+    "height": 451,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      25,
+      21,
+      25,
+      21
+    ],
+    "padding_ratio": [
+      0.04655493482309125,
+      0.04655493482309125,
+      0.04656319290465632,
+      0.04656319290465632
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "task_book",
+    "file": "raster/tasks/task_book.png",
+    "status": "ready",
+    "width": 702,
+    "height": 384,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      32,
+      18,
+      32,
+      18
+    ],
+    "padding_ratio": [
+      0.045584045584045586,
+      0.045584045584045586,
+      0.046875,
+      0.046875
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "task_stretch",
+    "file": "raster/tasks/task_stretch.png",
+    "status": "ready",
+    "width": 732,
+    "height": 730,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      0.7586789266278852,
+      1.0
+    ],
+    "margins_px": [
+      34,
+      34,
+      34,
+      34
+    ],
+    "padding_ratio": [
+      0.04644808743169399,
+      0.04644808743169399,
+      0.04657534246575343,
+      0.04657534246575343
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_pink",
+    "file": "raster/decor/washi_pink.png",
+    "status": "ready",
+    "width": 302,
+    "height": 179,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      14,
+      9,
+      14,
+      9
+    ],
+    "padding_ratio": [
+      0.046357615894039736,
+      0.046357615894039736,
+      0.05027932960893855,
+      0.05027932960893855
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_lavender_heart",
+    "file": "raster/decor/washi_lavender_heart.png",
+    "status": "ready",
+    "width": 316,
+    "height": 168,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      15,
+      8,
+      15,
+      8
+    ],
+    "padding_ratio": [
+      0.04746835443037975,
+      0.04746835443037975,
+      0.047619047619047616,
+      0.047619047619047616
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "washi_cream_grid",
+    "file": "raster/decor/washi_cream_grid.png",
+    "status": "ready",
+    "width": 305,
+    "height": 172,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      14,
+      8,
+      14,
+      8
+    ],
+    "padding_ratio": [
+      0.04590163934426229,
+      0.04590163934426229,
+      0.046511627906976744,
+      0.046511627906976744
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "bow_pink_large",
+    "file": "raster/decor/bow_pink_large.png",
+    "status": "ready",
+    "width": 322,
+    "height": 297,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      15,
+      14,
+      15,
+      14
+    ],
+    "padding_ratio": [
+      0.046583850931677016,
+      0.046583850931677016,
+      0.04713804713804714,
+      0.04713804713804714
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "bow_blue",
+    "file": "raster/decor/bow_blue.png",
+    "status": "needs_review",
+    "width": 251,
+    "height": 238,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      12,
+      11,
+      12,
+      11
+    ],
+    "padding_ratio": [
+      0.04780876494023904,
+      0.04780876494023904,
+      0.046218487394957986,
+      0.046218487394957986
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "bow_pink_small",
+    "file": "raster/decor/bow_pink_small.png",
+    "status": "needs_review",
+    "width": 208,
+    "height": 138,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      10,
+      7,
+      10,
+      7
+    ],
+    "padding_ratio": [
+      0.04807692307692308,
+      0.04807692307692308,
+      0.050724637681159424,
+      0.050724637681159424
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "cherries_simple",
+    "file": "raster/decor/cherries_simple.png",
+    "status": "ready",
+    "width": 215,
+    "height": 238,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      10,
+      11,
+      10,
+      11
+    ],
+    "padding_ratio": [
+      0.046511627906976744,
+      0.046511627906976744,
+      0.046218487394957986,
+      0.046218487394957986
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "cherries_bow",
+    "file": "raster/decor/cherries_bow.png",
+    "status": "ready",
+    "width": 209,
+    "height": 250,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      10,
+      12,
+      10,
+      12
+    ],
+    "padding_ratio": [
+      0.04784688995215311,
+      0.04784688995215311,
+      0.048,
+      0.048
+    ],
+    "opaque_interior_rgb_equal_fraction": 0.9999485278978794
+  },
+  {
+    "name": "flower_pink",
+    "file": "raster/decor/flower_pink.png",
+    "status": "ready",
+    "width": 139,
+    "height": 138,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      7,
+      7,
+      7,
+      7
+    ],
+    "padding_ratio": [
+      0.050359712230215826,
+      0.050359712230215826,
+      0.050724637681159424,
+      0.050724637681159424
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_pink_02",
+    "file": "raster/decor/flower_pink_02.png",
+    "status": "ready",
+    "width": 148,
+    "height": 152,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      7,
+      7,
+      7,
+      7
+    ],
+    "padding_ratio": [
+      0.0472972972972973,
+      0.0472972972972973,
+      0.046052631578947366,
+      0.046052631578947366
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_pink_03",
+    "file": "raster/decor/flower_pink_03.png",
+    "status": "ready",
+    "width": 105,
+    "height": 102,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      5,
+      5,
+      5,
+      5
+    ],
+    "padding_ratio": [
+      0.047619047619047616,
+      0.047619047619047616,
+      0.049019607843137254,
+      0.049019607843137254
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_cream",
+    "file": "raster/decor/flower_cream.png",
+    "status": "needs_review",
+    "width": 153,
+    "height": 153,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      7,
+      7,
+      7,
+      7
+    ],
+    "padding_ratio": [
+      0.0457516339869281,
+      0.0457516339869281,
+      0.0457516339869281,
+      0.0457516339869281
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_blue",
+    "file": "raster/decor/flower_blue.png",
+    "status": "needs_review",
+    "width": 131,
+    "height": 128,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "padding_ratio": [
+      0.04580152671755725,
+      0.04580152671755725,
+      0.046875,
+      0.046875
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_tulip_pink",
+    "file": "raster/decor/flower_tulip_pink.png",
+    "status": "ready",
+    "width": 125,
+    "height": 172,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      6,
+      8,
+      6,
+      8
+    ],
+    "padding_ratio": [
+      0.048,
+      0.048,
+      0.046511627906976744,
+      0.046511627906976744
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "flower_tulip_yellow",
+    "file": "raster/decor/flower_tulip_yellow.png",
+    "status": "ready",
+    "width": 159,
+    "height": 161,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "padding_ratio": [
+      0.050314465408805034,
+      0.050314465408805034,
+      0.049689440993788817,
+      0.049689440993788817
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "paperclip_pink",
+    "file": "raster/decor/paperclip_pink.png",
+    "status": "ready",
+    "width": 193,
+    "height": 234,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      9,
+      11,
+      9,
+      11
+    ],
+    "padding_ratio": [
+      0.046632124352331605,
+      0.046632124352331605,
+      0.04700854700854701,
+      0.04700854700854701
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "paperclip_white",
+    "file": "raster/decor/paperclip_white.png",
+    "status": "needs_review",
+    "width": 152,
+    "height": 207,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      7,
+      10,
+      7,
+      10
+    ],
+    "padding_ratio": [
+      0.046052631578947366,
+      0.046052631578947366,
+      0.04830917874396135,
+      0.04830917874396135
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "binder_clip",
+    "file": "raster/decor/binder_clip.png",
+    "status": "needs_review",
+    "width": 189,
+    "height": 217,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      9,
+      10,
+      9,
+      10
+    ],
+    "padding_ratio": [
+      0.047619047619047616,
+      0.047619047619047616,
+      0.04608294930875576,
+      0.04608294930875576
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "sprout",
+    "file": "raster/decor/sprout.png",
+    "status": "ready",
+    "width": 180,
+    "height": 113,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      9,
+      6,
+      9,
+      6
+    ],
+    "padding_ratio": [
+      0.05,
+      0.05,
+      0.05309734513274336,
+      0.05309734513274336
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "cloud",
+    "file": "raster/decor/cloud.png",
+    "status": "ready",
+    "width": 196,
+    "height": 146,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "margins_px": [
+      9,
+      7,
+      9,
+      7
+    ],
+    "padding_ratio": [
+      0.04591836734693878,
+      0.04591836734693878,
+      0.04794520547945205,
+      0.04794520547945205
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "leaf_green",
+    "file": "raster/decor/leaf_green.png",
+    "status": "ready",
+    "width": 117,
+    "height": 101,
+    "mode": "RGBA",
+    "full_resolution_export": true,
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "corner_3px_fully_transparent": true,
+    "corner_10_percent_patch_transparent_fraction": [
+      1.0,
+      1.0,
+      0.97,
+      1.0
+    ],
+    "margins_px": [
+      6,
+      5,
+      6,
+      5
+    ],
+    "padding_ratio": [
+      0.05128205128205128,
+      0.05128205128205128,
+      0.04950495049504951,
+      0.04950495049504951
+    ],
+    "opaque_interior_rgb_equal_fraction": 1.0
+  },
+  {
+    "name": "sparkle_gold",
+    "file": "vectors/symbols/sparkle_gold.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "sparkle_gold_02",
+    "file": "vectors/symbols/sparkle_gold_02.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "star_cream",
+    "file": "vectors/symbols/star_cream.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "star_pink",
+    "file": "vectors/symbols/star_pink.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "star_pink_outline",
+    "file": "vectors/symbols/star_pink_outline.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "heart_pink_filled",
+    "file": "vectors/symbols/heart_pink_filled.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "heart_pink_outline",
+    "file": "vectors/symbols/heart_pink_outline.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "drop_blue",
+    "file": "vectors/symbols/drop_blue.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  },
+  {
+    "name": "drop_lavender",
+    "file": "vectors/symbols/drop_lavender.svg",
+    "status": "ready",
+    "valid_svg": true,
+    "paths_only": true,
+    "embedded_bitmaps": false,
+    "rendered_sizes": [
+      24,
+      48,
+      96,
+      128,
+      512
+    ]
+  }
+]

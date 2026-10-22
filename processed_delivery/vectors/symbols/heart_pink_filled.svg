@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="heart_pink_filled">
+  <title>heart pink filled</title>
+  <desc>Hand traced from Cozy Days watercolor reference. Actual vector paths; no bitmap.</desc>
+  <path d="M63 33 C51 11 28 12 16 29 C-1 55 24 84 44 100 C51 106 57 110 64 115 C83 101 114 80 118 52 C123 25 104 13 88 19 C76 21 69 27 63 33 Z" fill="#ffb2cb" stroke="#382f2b" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M21 34 C26 22 39 22 43 28 C46 33 34 36 31 43 C27 48 27 58 23 57 C17 52 18 43 21 34 Z" fill="#fff4e7" opacity="0.95" />
+  <path d="M27 62 C30 64 33 70 35 73" fill="none" stroke="#fff7ec" stroke-width="5.3" stroke-linecap="round" stroke-linejoin="round" opacity="0.88" />
+  <path d="M42 88 C58 95 76 85 94 69 C102 61 109 49 111 41 C116 67 92 93 64 109 Z" fill="#ef7fa9" opacity="0.24" />
+  <path d="M49 40 C56 37 65 45 68 50 C71 43 81 36 88 38 C94 42 79 54 68 69 C63 62 47 51 49 40 Z" fill="#ffd5df" opacity="0.3" />
+</svg>

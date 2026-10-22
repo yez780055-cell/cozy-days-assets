@@ -1,0 +1,173 @@
+[
+  {
+    "name": "sparkle_gold",
+    "file": "vectors/symbols/sparkle_gold.svg",
+    "source": "09_stars_hearts_drops_sheet_b.png",
+    "reference_box": [
+      96,
+      51,
+      374,
+      365
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "sparkle_gold",
+    "sha256": "50e8ae3b016d0dbd60ae9b6b9c213310a33f338ffd39a700210436bd18bbb887"
+  },
+  {
+    "name": "sparkle_gold_02",
+    "file": "vectors/symbols/sparkle_gold_02.svg",
+    "source": "08_stars_hearts_drops_sheet_a.png",
+    "reference_box": [
+      267,
+      183,
+      371,
+      317
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "sparkle_gold",
+    "sha256": "c914205b968b10d6c459a8e210adb9c6f559ba0e5af4b2d19f1f18a4be50dfc1"
+  },
+  {
+    "name": "star_cream",
+    "file": "vectors/symbols/star_cream.svg",
+    "source": "09_stars_hearts_drops_sheet_b.png",
+    "reference_box": [
+      676,
+      62,
+      981,
+      354
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "star_cream",
+    "sha256": "c725117c9e0860cd89d4c6c205003cc60f8dbdf7dc236b55d65bd6c280df0494"
+  },
+  {
+    "name": "star_pink",
+    "file": "vectors/symbols/star_pink.svg",
+    "source": "09_stars_hearts_drops_sheet_b.png",
+    "reference_box": [
+      1024,
+      137,
+      1255,
+      358
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "star_pink",
+    "sha256": "67254ba7756ed7700e727c0d7ba770ccaecdb9260e2b9e2b2afa41d6572677cb"
+  },
+  {
+    "name": "star_pink_outline",
+    "file": "vectors/symbols/star_pink_outline.svg",
+    "source": "09_stars_hearts_drops_sheet_b.png",
+    "reference_box": [
+      1024,
+      137,
+      1255,
+      358
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "star_pink",
+    "sha256": "c460201d7dd5d2026e6a4f042d82a1dc63038987f8deedc53b3b17abbe0f5d9d"
+  },
+  {
+    "name": "heart_pink_filled",
+    "file": "vectors/symbols/heart_pink_filled.svg",
+    "source": "08_stars_hearts_drops_sheet_a.png",
+    "reference_box": [
+      150,
+      406,
+      424,
+      641
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "heart_pink_filled",
+    "sha256": "69c23521c2abbc2236dd421c93c289582b15379fad30f631b90669d943b2a999"
+  },
+  {
+    "name": "heart_pink_outline",
+    "file": "vectors/symbols/heart_pink_outline.svg",
+    "source": "08_stars_hearts_drops_sheet_a.png",
+    "reference_box": [
+      687,
+      423,
+      895,
+      632
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "heart_pink_outline",
+    "sha256": "d85097dde592cff0ea27227bbbf7ecd3dc2d3f4d6e47b572cb38257b3aae0c16"
+  },
+  {
+    "name": "drop_blue",
+    "file": "vectors/symbols/drop_blue.svg",
+    "source": "08_stars_hearts_drops_sheet_a.png",
+    "reference_box": [
+      1070,
+      715,
+      1235,
+      947
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "drop_blue",
+    "sha256": "45ec8d8d3ffb900cb843c9c841468b3cde84fe4d60831985802f88adde7f0b79"
+  },
+  {
+    "name": "drop_lavender",
+    "file": "vectors/symbols/drop_lavender.svg",
+    "source": "08_stars_hearts_drops_sheet_a.png",
+    "reference_box": [
+      615,
+      704,
+      790,
+      947
+    ],
+    "width": 128,
+    "height": 128,
+    "alpha": "vector transparent canvas",
+    "status": "needs_review",
+    "group": "symbols",
+    "notes": "Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized",
+    "parent_manifest": "drop_lavender",
+    "sha256": "859970f340c2e6dd01de762550202a43f1fb32c3d0ece4a36d5bb33866d122b6"
+  }
+]

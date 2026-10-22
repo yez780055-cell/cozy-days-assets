@@ -1,0 +1,16 @@
+{
+  "sources": 10,
+  "manifest_targets": 44,
+  "manifest_accounted": 44,
+  "raster_files": 44,
+  "svg_files": 9,
+  "independent_assets": 53,
+  "ready": 44,
+  "needs_review": 9,
+  "blocked": 0,
+  "originals_sha256_unchanged": true,
+  "android_project_present": false,
+  "android_build_tested": false,
+  "native_ready_png": 35,
+  "native_vector_drawable": 9
+}

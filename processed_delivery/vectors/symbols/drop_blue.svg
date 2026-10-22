@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="drop_blue">
+  <title>drop blue</title>
+  <desc>Hand traced from Cozy Days watercolor reference. Actual vector paths; no bitmap.</desc>
+  <path d="M64 11 C67 15 75 29 83 40 C96 59 109 75 108 91 C106 111 89 120 65 120 C42 121 22 109 20 92 C17 75 30 57 41 41 C49 28 57 17 64 11 Z" fill="#c7dcff" stroke="#36323b" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M59 24 C49 41 38 56 32 72 C27 80 29 90 32 91 C37 90 39 76 44 69 C52 55 62 41 68 34 Z" fill="#f0f4ff" opacity="0.48" />
+  <path d="M34 69 C36 58 40 52 44 53 C50 55 43 69 42 75 C41 80 33 81 34 69 Z" fill="#fffefa" opacity="0.94" />
+  <path d="M32 88 C32 84 36 84 39 88 L42 94 C43 99 37 101 34 97 Z" fill="#fffefa" opacity="0.94" />
+  <path d="M50 110 C80 118 100 102 99 84 C104 91 102 104 94 110 C82 119 63 119 50 110 Z" fill="#9ebceb" opacity="0.5" />
+</svg>

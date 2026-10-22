@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Portable preview layout. Copy FocalCropImageView.java together with res/. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/paper_repeat">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="232dp">
+
+        <com.cozydays.assets.FocalCropImageView
+            android:id="@+id/cozy_bedroom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bedroom_header"
+            android:importantForAccessibility="no" />
+
+        <ImageView
+            android:id="@+id/cozy_header_cats"
+            android:layout_width="280dp"
+            android:layout_height="154dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="4dp"
+            android:src="@drawable/cats_header"
+            android:scaleType="fitCenter"
+            android:importantForAccessibility="no" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/cozy_empty_cats"
+        android:layout_width="240dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/cats_empty_state"
+        android:scaleType="fitCenter"
+        android:importantForAccessibility="no" />
+
+    <ImageView
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/heart_pink_outline"
+        android:importantForAccessibility="no" />
+</LinearLayout>

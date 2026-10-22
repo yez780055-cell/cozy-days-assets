@@ -1,0 +1,45 @@
+﻿target_name,status,file,source_files,notes
+paper_texture,ready,raster/backgrounds/paper_texture.png,01_paper_texture.png,Periodic-plus-smooth seamless correction; original resolution and grain retained
+bedroom_header,ready,raster/backgrounds/bedroom_header.png,02_bedroom_background.png,"Byte-identical source. Cover with focal point (0.62, 0.45); no stretch"
+cats_header,ready,raster/characters/cats_header.png,03_header_cats.png,"Two cats, blanket, lavender pillow and three sparkles retained"
+cats_empty_state,ready,raster/characters/cats_empty_state.png,04_empty_state_cats.png,Distinct pose; both cats and whiskers retained
+black_cat_peek_left,ready,raster/characters/black_cat_peek_left.png,05_cat_books_sticker_sheet.png,Original vertical pink edge retained as explicit sticker content
+black_cat_peek_blanket,ready,raster/characters/black_cat_peek_blanket.png,05_cat_books_sticker_sheet.png,
+black_cat_lying,ready,raster/characters/black_cat_lying.png,05_cat_books_sticker_sheet.png,Heart and motion strokes retained; open book excluded
+black_cat_peek_bottom,ready,raster/characters/black_cat_peek_bottom.png,05_cat_books_sticker_sheet.png,
+black_cat_sleeping_books,ready,raster/characters/black_cat_sleeping_books.png,05_cat_books_sticker_sheet.png,All three sleep Z strokes retained
+books_shelf_plant,ready,raster/stationery/books_shelf_plant.png,05_cat_books_sticker_sheet.png,
+books_stack,ready,raster/stationery/books_stack.png,05_cat_books_sticker_sheet.png,
+book_open_decor,ready,raster/stationery/book_open_decor.png,05_cat_books_sticker_sheet.png,
+books_upright,ready,raster/stationery/books_upright.png,05_cat_books_sticker_sheet.png,
+pencil_cup,ready,raster/stationery/pencil_cup.png,05_cat_books_sticker_sheet.png,
+washi_clip_group,ready,raster/stationery/washi_clip_group.png,05_cat_books_sticker_sheet.png,Optional single components also exported
+task_laptop,needs_review,raster/tasks/task_laptop.png,06_task_icons_sheet.png,外壳、键盘及屏幕内描边含较大中性灰区域，无法可靠区分原有蜡笔灰与烘焙棋盘残留。保留白色机身，未进行破坏性整体去灰；需要精修内描边。
+task_broom,needs_review,raster/tasks/task_broom.png,06_task_icons_sheet.png,两团浅灰蓝风动云的外描边存在不连续与局部损失；浅色外缘和棋盘底混合，自动蒙版尚不能保证完整恢复。
+task_book,ready,raster/tasks/task_book.png,06_task_icons_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+task_stretch,ready,raster/tasks/task_stretch.png,06_task_icons_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+washi_pink,ready,raster/decor/washi_pink.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+washi_lavender_heart,ready,raster/decor/washi_lavender_heart.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+washi_cream_grid,ready,raster/decor/washi_cream_grid.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+bow_pink_large,ready,raster/decor/bow_pink_large.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+bow_blue,needs_review,raster/decor/bow_blue.png,07_decorations_sheet.png,蓝蝴蝶结上侧、左侧的浅色蜡笔外缘存在断续和少量细线损失，需要沿原裁片补做精细半透明蒙版。
+bow_pink_small,needs_review,raster/decor/bow_pink_small.png,07_decorations_sheet.png,小蝴蝶结原本与樱桃梗相连。已按轮廓排除果实与大部分梗，但中心连接处和尾带交叠区缺乏独立边界，需要人工确认，不应直接上线。
+cherries_simple,ready,raster/decor/cherries_simple.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+cherries_bow,ready,raster/decor/cherries_bow.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+flower_pink,ready,raster/decor/flower_pink.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+flower_cream,needs_review,raster/decor/flower_cream.png,07_decorations_sheet.png,花心原图带灰格与奶油色混合，中心负空间的真实边界不确定；现保留彩色花心、移除中性灰区域，需人工确认设计意图。
+flower_blue,needs_review,raster/decor/flower_blue.png,07_decorations_sheet.png,花心原图带灰格与淡黄色混合，中心负空间的真实边界不确定；现保留彩色花心、移除中性灰区域，需人工确认设计意图。
+flower_tulip_pink,ready,raster/decor/flower_tulip_pink.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+flower_tulip_yellow,ready,raster/decor/flower_tulip_yellow.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+paperclip_pink,ready,raster/decor/paperclip_pink.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+paperclip_white,needs_review,raster/decor/paperclip_white.png,07_decorations_sheet.png,浅色回形针已挖空负空间，但奶白外圈局部毛边和淡粉线可能有损失，需人工对照。
+binder_clip,needs_review,raster/decor/binder_clip.png,07_decorations_sheet.png,夹子的奶白金属线与灰格混合，左上外缘局部缺失；需要人工保护浅色金属线再去棋盘底。
+sprout,ready,raster/decor/sprout.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+cloud,ready,raster/decor/cloud.png,07_decorations_sheet.png,从烘焙棋盘底逐项拆分；保留浅色填充与手绘描边；已检查白/深灰/粉底，人物及叶片负空间另行挖空。
+sparkle_gold,ready,vectors/symbols/sparkle_gold.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+star_cream,ready,vectors/symbols/star_cream.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+star_pink,ready,vectors/symbols/star_pink.svg,09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+heart_pink_filled,ready,vectors/symbols/heart_pink_filled.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+heart_pink_outline,ready,vectors/symbols/heart_pink_outline.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+drop_blue,ready,vectors/symbols/drop_blue.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
+drop_lavender,ready,vectors/symbols/drop_lavender.svg,08_stars_hearts_drops_sheet_a.png;09_stars_hearts_drops_sheet_b.png,Hand-authored scalable paths; layered translucent paint; source grain intentionally not rasterized
